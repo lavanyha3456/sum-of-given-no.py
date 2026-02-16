@@ -1,0 +1,1 @@
+# sum-of-given-no.py
